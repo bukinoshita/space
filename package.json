@@ -7,6 +7,7 @@
   "repository": "git@github.com:bukinoshita/space.git",
   "author": "bukinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
+  "keywords": ["space", "spacing", "theme", "ui", "design", "system"],
   "engines": {
     "node": ">=10"
   },
