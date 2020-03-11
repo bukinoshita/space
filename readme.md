@@ -1,4 +1,4 @@
-# Space
+# Space [![Build Status](https://travis-ci.org/bukinoshita/space.svg?branch=master)](https://travis-ci.org/bukinoshita/space)
 
 > A spacing util
 
