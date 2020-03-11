@@ -1,13 +1,20 @@
 {
   "name": "@bukinoshita/space",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A spacing util",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "git@github.com:bukinoshita/space.git",
   "author": "bukinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
-  "keywords": ["space", "spacing", "theme", "ui", "design", "system"],
+  "keywords": [
+    "space",
+    "spacing",
+    "theme",
+    "ui",
+    "design",
+    "system"
+  ],
   "engines": {
     "node": ">=10"
   },
