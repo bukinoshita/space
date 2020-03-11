@@ -12,15 +12,15 @@ $ yarn add @bukinoshita/space
 
 Example with [styled-jsx](https://github.com/zeit/styled-jsx)
 
-```
+```ts
 // theme/space.ts
 import { Space } from '@bukinoshita/space'
 
 export const space = new Space()
 ```
 
-```
-// components/my-component.ts
+```tsx
+// components/my-component.tsx
 import { spacing } from 'theme/spacing'
 
 const MyComponent = () => (
