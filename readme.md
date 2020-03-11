@@ -10,12 +10,13 @@ $ yarn add @bukinoshita/space
 
 ## Usage
 
-Example with [styled-jsx](https://github.com/zeit/styled-jsx)
+Example with [styled-jsx](https://github.com/zeit/styled-jsx).
 
 ```ts
 // theme/space.ts
 import { Space } from '@bukinoshita/space'
 
+// It uses the `4px` grid by default
 export const space = new Space()
 ```
 
@@ -39,7 +40,7 @@ const MyComponent = () => (
 )
 ```
 
-You can find more [example here](/examples)
+You can find more [example here](/examples).
 
 ## API
 
