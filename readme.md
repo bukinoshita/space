@@ -22,7 +22,7 @@ export const space = new Space()
 
 ```tsx
 // components/my-component.tsx
-import { spacing } from 'theme/spacing'
+import { space } from 'theme/spacing'
 
 const MyComponent = () => (
   <div>
