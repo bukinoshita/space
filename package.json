@@ -1,6 +1,6 @@
 {
   "name": "@bukinoshita/space",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A spacing util",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
