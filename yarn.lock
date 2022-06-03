@@ -431,10 +431,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@sindresorhus/tsconfig@1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/tsconfig/-/tsconfig-1.0.2.tgz#f2c78c9e0de3293a775debd24b022ea480f18800"
-  integrity sha512-6N3TkxwK6XuRCH/IRQXvp4PwTrRxktE4NpmeFczA283W6rJjcorJKNbjSmgCNVKkofNoawPF9OmCqDVzDv5UPg==
+"@sindresorhus/tsconfig@3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/tsconfig/-/tsconfig-3.0.1.tgz#e2eaebda42aa7a755b11bdfbea847446652e1ac4"
+  integrity sha512-0/gtPNTY3++0J2BZM5nHHULg0BIMw886gqdn8vWN+Av6bgF5ZU2qIcHubAn+Z9KNvJhO8WFE+9kDOU3n6OcKtA==
 
 "@sinonjs/commons@^1.7.0":
   version "1.7.1"
